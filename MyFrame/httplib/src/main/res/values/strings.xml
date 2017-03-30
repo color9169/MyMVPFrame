@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">httpLib</string>
+
+    <string name="network_error">网络错误</string>
+    <string name="network_exception">网络异常</string>
+    <string name="network_not_connected">网络未连接</string>
+    <string name="loading">加载中</string>
+    <string name="update_in">上传中</string>
+</resources>
