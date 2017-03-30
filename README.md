@@ -13,5 +13,5 @@ MVP结构按照自己的理解来创建的。
 用法很简单，看下代码基本就会了。
 
 代码中用到了两个第三方的库
-自定义Loading框[https://github.com/Kaopiz/KProgressHUD]
-以及鸿洋的网络请求 [https://github.com/hongyangAndroid/okhttputils]
+*自定义Loading框[https://github.com/Kaopiz/KProgressHUD]
+*鸿洋的网络请求 [https://github.com/hongyangAndroid/okhttputils]
